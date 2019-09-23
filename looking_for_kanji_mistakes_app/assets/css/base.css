@@ -1,0 +1,12 @@
+span{
+    cursor: pointer;
+}
+body{
+    text-align: center;
+    font-size: 30px;
+}
+#btn{
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+}
